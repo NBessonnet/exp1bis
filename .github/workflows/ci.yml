@@ -17,6 +17,7 @@ jobs:
       - run: pip install mkdocs-exclude-search
       - run: pip install mkdocs-awesome-pages-plugin
       - run: pip install mkdocs-macros-plugin
+      - run: pip install mkdocs-kroki-plugin
       
       # C'est ici qu'il faut ajouter si besoin
       # les instructions pour installer avec pip
