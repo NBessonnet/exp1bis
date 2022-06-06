@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https:// NBessonnet.github.io/exp1bis/</loc>
+         <lastmod>2022-06-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https:// NBessonnet.github.io/exp1bis/classeABR/</loc>
+         <lastmod>2022-06-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https:// NBessonnet.github.io/exp1bis/infos/</loc>
+         <lastmod>2022-06-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https:// NBessonnet.github.io/exp1bis/NSI/CH1/bases/</loc>
+         <lastmod>2022-06-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https:// NBessonnet.github.io/exp1bis/NSI/CH1/fonction/</loc>
+         <lastmod>2022-06-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https:// NBessonnet.github.io/exp1bis/scripts/test/</loc>
+         <lastmod>2022-06-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https:// NBessonnet.github.io/exp1bis/xtra/end_REM/</loc>
+         <lastmod>2022-06-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https:// NBessonnet.github.io/exp1bis/xtra/start_REM/</loc>
+         <lastmod>2022-06-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
